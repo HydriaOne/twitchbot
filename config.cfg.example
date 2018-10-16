@@ -1,0 +1,7 @@
+[CONFIG]
+
+HOST = irc.twitch.tv
+PORT = 6667
+NICK = nickname
+PASS = OAUTH TOKEN
+CHAN = #CHANNEL YOU WANT TO CONNECT
